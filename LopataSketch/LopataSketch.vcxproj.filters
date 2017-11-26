@@ -17,5 +17,9 @@
   <ItemGroup>
     <None Include="LopataSketch.ino" />
   </ItemGroup>
- 
+  <ItemGroup>
+    <ClInclude Include="__vm\.LopataSketch.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
